@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-LL Codey Raceway-0.1";
 const contentToCache = [
     "Build/builds.loader.js",
-    "Build/builds.framework.js",
-    "Build/builds.data",
-    "Build/builds.wasm",
+    "Build/builds.framework.js.unityweb",
+    "Build/builds.data.unityweb",
+    "Build/builds.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
