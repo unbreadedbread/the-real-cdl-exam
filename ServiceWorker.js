@@ -1,4 +1,4 @@
-const cacheName = "DefaultCompany-LL Codey Raceway-0.1";
+const cacheName = "unbreadedbread-The Real CDL Exam-0.1";
 const contentToCache = [
     "Build/builds.loader.js",
     "Build/builds.framework.js.unityweb",
